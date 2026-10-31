@@ -1,10 +1,16 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Oliver — aspiring game designer and programmer at Abertay University. Godot and C++." />
-</p>
+```text
+oliver@gakjee:~$ whoami
+Oliver — aspiring game designer & programmer
+Abertay University | Godot & C++
+
+oliver@gakjee:~$ cat current-project.txt
+AGDS Halloween Jam '26
+Theme: The Other Side
+```
 
 <p align="center">
   <a href="#games">Games</a> &nbsp;·&nbsp;
-  <a href="#tools--skills">Tools &amp; skills</a> &nbsp;·&nbsp;
+  <a href="#tools-and-skills">Tools &amp; skills</a> &nbsp;·&nbsp;
   <a href="#other-projects">Other projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/gakjee?tab=repositories">Repositories</a>
 </p>
@@ -13,7 +19,7 @@ I'm **Oliver**, an aspiring **game designer and programmer** studying at **Abert
 
 I work with **Godot and C++**, and I'm currently developing a game for **[AGDS Halloween Jam '26](https://itch.io/jam/agds-halloween-jam-26)**.
 
-## Games
+## `~/games`
 
 ### Ubume
 **2D narrative horror · Godot 4 · C++ / GDExtension**
@@ -31,7 +37,7 @@ Developing a game around the theme **“The Other Side”** as part of Abertay's
 
 [View the jam on itch.io →](https://itch.io/jam/agds-halloween-jam-26)
 
-## Tools & skills
+## `~/tools-and-skills`
 
 | Area | Experience |
 | :--- | :--- |
@@ -42,7 +48,7 @@ Developing a game around the theme **“The Other Side”** as part of Abertay's
 | **Workflow & testing** | Git / GitHub · JUnit · Maven |
 | **Deployment experience** | Docker · Jenkins · Basic Kubernetes |
 
-## Other projects
+## `~/other-projects`
 
 A selection of my web development and programming work alongside games.
 
