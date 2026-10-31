@@ -10,7 +10,6 @@ Theme: The Other Side
 <p align="center">
   <a href="#games">Games</a> &nbsp;·&nbsp;
   <a href="#tools-and-skills">Tools &amp; skills</a> &nbsp;·&nbsp;
-  <a href="#other-projects">Other projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/HCOliver?tab=repositories">Repositories</a>
 </p>
 
