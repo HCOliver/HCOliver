@@ -1,9 +1,8 @@
 ```text
-oliver@gakjee:~$ whoami
 Oliver — aspiring game designer & programmer
 Abertay University | Godot & C++
 
-oliver@gakjee:~$ cat current-project.txt
+Current Project
 AGDS Halloween Jam '26
 Theme: The Other Side
 ```
@@ -12,7 +11,7 @@ Theme: The Other Side
   <a href="#games">Games</a> &nbsp;·&nbsp;
   <a href="#tools-and-skills">Tools &amp; skills</a> &nbsp;·&nbsp;
   <a href="#other-projects">Other projects</a> &nbsp;·&nbsp;
-  <a href="https://github.com/gakjee?tab=repositories">Repositories</a>
+  <a href="https://github.com/HCOliver?tab=repositories">Repositories</a>
 </p>
 
 I'm **Oliver**, an aspiring **game designer and programmer** studying at **Abertay University**. I'm interested in gameplay mechanics, narrative design and the systems that connect them.
@@ -48,13 +47,5 @@ Developing a game around the theme **“The Other Side”** as part of Abertay's
 | **Workflow & testing** | Git / GitHub · JUnit · Maven |
 | **Deployment experience** | Docker · Jenkins · Basic Kubernetes |
 
-## `~/other-projects`
 
-A selection of my web development and programming work alongside games.
 
-| Project | What it explores |
-| :--- | :--- |
-| [Community Learning Hub](https://github.com/gakjee/community-learning-hub) | Course enrolment, user accounts and admin tools with Node.js and Express |
-| [Pig Latin MVC](https://github.com/gakjee/PigLatinMVC) | C#, MVC, form processing and text transformation |
-| [Decimal to Hexadecimal](https://github.com/gakjee/CW01DEVOPS) | Java, logging, JUnit tests and Maven |
-| [Container deployment](https://github.com/gakjee/CWO2) | Docker, a Jenkins pipeline and Kubernetes configuration |
